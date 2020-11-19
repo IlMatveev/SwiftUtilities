@@ -12,6 +12,6 @@ Pod::Spec.new do |spec|
     :tag => "0.0.1" 
   }
 
-  spec.source_files = "Sources/**/*.{h,m}", "Sources/**/*.swift"
+  spec.source_files = "Source/**/*.{h,m}", "Source/**/*.swift"
 
 end
